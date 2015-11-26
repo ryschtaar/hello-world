@@ -1,7 +1,4 @@
 # hello-world
-practice
-
-message for commit test
 
 This line will fix the second issue.
 This line will fix the third issue.
